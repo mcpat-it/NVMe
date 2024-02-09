@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="183.88165"
+   height="40"
+   viewBox="0 0 183.88128 40.000124"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="paypalbutton2.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.5208438"
+     inkscape:cx="131.50594"
+     inkscape:cy="8.2191215"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg32" />
+  <defs
+     id="defs20">
+    <linearGradient
+       x1="42.9781"
+       y1="-1.0616803"
+       x2="-0.23547576"
+       y2="85.365463"
+       id="a"
+       gradientTransform="matrix(2.0866937,0,0,0.46281897,0.49089148,0.491366)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#8ADD6D"
+         offset="0%"
+         id="stop2" />
+      <stop
+         stop-color="#60B044"
+         offset="100%"
+         id="stop4" />
+    </linearGradient>
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       filterUnits="objectBoundingBox"
+       id="b">
+      <feOffset
+         dy="-1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset7" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur9" />
+      <feColorMatrix
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0"
+         in="shadowBlurOuter1"
+         result="shadowMatrixOuter1"
+         id="feColorMatrix11" />
+      <feMerge
+         id="feMerge17">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode13" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode15" />
+      </feMerge>
+    </filter>
+  </defs>
+  <rect
+     stroke="#5ca941"
+     fill="url(#a)"
+     width="183.88222"
+     height="40.000122"
+     rx="1.933517"
+     id="rect22"
+     style="fill:#170875;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:1.1;stroke-dasharray:none;paint-order:markers fill stroke"
+     x="-0.00046418101"
+     y="5e-07" />
+  <path
+     d="m 31.474942,17.212228 q 0.255019,1.19009 -0.05667,2.890218 -1.232592,6.290476 -8.004772,6.290476 h -0.62338 q -0.354193,0 -0.62338,0.233768 -0.269187,0.233767 -0.340026,0.602129 l -0.05667,0.269186 -0.779226,4.902036 -0.02834,0.212517 q -0.07084,0.368361 -0.34711,0.602129 -0.27627,0.233768 -0.630464,0.233768 h -3.556101 q -0.297523,0 -0.467537,-0.212517 -0.170012,-0.212515 -0.127508,-0.510038 0.127508,-0.793393 0.375445,-2.38018 0.247935,-1.586786 0.375445,-2.380179 0.127508,-0.793394 0.382529,-2.373096 0.255019,-1.579703 0.382528,-2.373096 0.07084,-0.524207 0.609213,-0.524207 h 1.855973 q 1.884309,0.02834 3.343586,-0.297522 2.479355,-0.552542 4.066142,-2.040154 1.445109,-1.345935 2.195999,-3.485263 0.340025,-0.991741 0.49587,-1.88431 0.01417,-0.08501 0.03542,-0.106258 0.02125,-0.02125 0.04959,-0.01417 0.02834,0.0071 0.08501,0.04959 1.11925,0.835897 1.388438,2.295174 z m -2.436851,-3.995302 q 0,1.515948 -0.651717,3.343587 -1.133418,3.301081 -4.278656,4.462836 -1.600954,0.56671 -3.57027,0.595045 0,0.01417 -1.275096,0.01417 l -1.275097,-0.01417 q -1.416773,0 -1.671793,1.360104 -0.02834,0.113341 -1.204257,7.5089 -0.01417,0.141677 -0.170013,0.141677 h -4.179483 q -0.31169,0 -0.517122,-0.233766 Q 10.039156,30.16154 10.081659,29.84985 L 13.368573,9.0091083 q 0.07084,-0.4108649 0.389613,-0.6800515 0.318774,-0.2691867 0.729639,-0.2691867 h 8.472306 q 0.481704,0 1.381355,0.18418 0.899652,0.1841815 1.579703,0.4533682 1.515947,0.5808767 2.316425,1.7426317 0.800477,1.161755 0.800477,2.776876 z"
+     fill="#ffffff"
+     id="path24"
+     style="fill-rule:evenodd;stroke-width:0.0141047" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:41.0076px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02519"
+     x="37.38216"
+     y="25.257372"
+     id="text17397"><tspan
+       sodipodi:role="line"
+       id="tspan17395"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.403px;font-family:Helvetica, arial, freesans, clean, sans-serif;-inkscape-font-specification:'Helvetica, arial, freesans, clean, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.02519"
+       x="37.38216"
+       y="25.257372">Donate via PayPal</tspan></text>
+</svg>
