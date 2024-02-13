@@ -41,17 +41,19 @@ Most of the images are preparted with MBR and therefore are limited to 2TB. This
 One simple step:
 
 1a. Connect to your device via SSH and type the following command to download and execute GPT converter.
-
-    sudo -i
-    bash <(curl -s https://nvme.mcpat.com/gptconverter.sh)
+``` 
+sudo -i
+bash <(curl -s https://nvme.mcpat.com/gptconverter.sh)
+``` 
 or
 
 1b. Alternative you can download and execute the script
-
-    cd
-    wget https://raw.githubusercontent.com/mcpat-it/NVMe/main/gptconverter.sh
-    chmod +x gptconverter.sh
-    sudo ./gptconverter.sh
+``` 
+cd
+wget https://raw.githubusercontent.com/mcpat-it/NVMe/main/gptconverter.sh
+chmod +x gptconverter.sh
+sudo ./gptconverter.sh
+```
 
 ## How to use GPT converter
 1. Boot your pi with a SD card and already installed NVMe, and install an image with `imager` on the rpi desktop, you can also make the settings (e.g. username, password, wifi, ...)
