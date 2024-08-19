@@ -1,6 +1,6 @@
 #!/bin/bash
-# MBR to GPT converter by Patrick R. Wallner (https://mcpat.com/)
-# Results and discussion at https://nvme.mcpat.com/
+# MBR to GPT converter based on mbr2gpt, written and copyright by RonR (https://forums.raspberrypi.com/viewtopic.php?t=196778)
+# Adapted and improved for RPi5 by MCPat 2024 (https://nvme.mcpat.com/)
 #
 # To run the converter use the following commands:
 # Option 1:
@@ -19,7 +19,7 @@
 # v1.0
 #  - Check firstboot
 #  - config.txt entries
-
+#
 # Initialize variables
 DEVICE=/dev/nvme0n1
 MNTPATH="/tmp/gptconverter-mnt"
